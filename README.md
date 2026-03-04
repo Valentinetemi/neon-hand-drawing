@@ -9,7 +9,7 @@ This project was built as part of my **#100DaysOfBuildingAI** challenge.
 
 ## Features
 
-- Real-time hand tracking with MediaPipe.  
+- Real-time hand tracking with MediaPipe and OpenCV.  
 - Draw in the air by pinching your thumb and index finger.  
 - Neon glow effect for a cool visual appearance.  
 - Lightweight Python implementation, easy to run.  
@@ -22,3 +22,4 @@ This project was built as part of my **#100DaysOfBuildingAI** challenge.
 
 ```bash
 git clone https://github.com/Valentinetemi/neon-hand-drawing.git
+
